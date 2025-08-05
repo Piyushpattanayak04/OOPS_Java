@@ -1,0 +1,3 @@
+1. WAP that read a number in meter and convert it to feet and display the result
+2. WAP that print all real solutions to the quadratic equation ax^2 + bx +c = 0 , read-in abc and use the quadratic formula. 
+if the discriminat b^2-4ac is -ve then display a mssg stating that there are no real solutions.
